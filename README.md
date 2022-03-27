@@ -2,6 +2,8 @@
 
 `A single webpage vanilla Javascript Snake game`
 
+Snake Game app : 'https://app-snakegame.herokuapp.com/index.html'
+
 ## Functionality and Game Rules
 
 * This Game will be in the endless loop.
